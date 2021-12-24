@@ -2,6 +2,8 @@
 #include <math.h>
 
 
+// Z1 and Z2
+
 float Z1(int a)
 {
     return (cos(a) + sin(a) + cos(3*a) + sin(3*a));
